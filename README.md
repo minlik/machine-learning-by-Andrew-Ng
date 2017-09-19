@@ -1,2 +1,2 @@
 # machine-learning-by-Andrew-Ng
-learning notes of Stanford machine learning course.
+This is my learning notes of Stanford machine learning course on coursera.
